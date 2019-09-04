@@ -1,6 +1,6 @@
 {% set name = "ifaddr" %}
-{% set version = "0.1.5" %}
-{% set sha256 = "2469b556bba4358754da55150ff522f9db1581dae15fb3f17e3cb69d35e84232" %}
+{% set version = "0.1.6" %}
+{% set sha256 = "c19c64882a7ad51a394451dabcbbed72e98b5625ec1e79789924d5ea3e3ecb93" %}
 
 package:
   name: {{ name|lower }}
